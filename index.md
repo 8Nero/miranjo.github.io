@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title> Welcome </title>
-</head>
-<body>
-  <h1>Welcome</h1>
-    <p>Welcome</p>
-  
-</body>
-</html> 
+<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width"/><meta charSet="utf-8"/><title>Lovecraft</title><meta name="next-head-count" content="3"/><link rel="preload" href="/_next/static/css/9555fbe4118c83c59ab9.css" as="style"/><link rel="stylesheet" href="/_next/static/css/9555fbe4118c83c59ab9.css" data-n-g=""/><link rel="preload" href="/_next/static/css/fe2a0eaa542ec909dec4.css" as="style"/><link rel="stylesheet" href="/_next/static/css/fe2a0eaa542ec909dec4.css" data-n-p=""/><noscript data-n-css=""></noscript><link rel="preload" href="/_next/static/chunks/webpack-25bac72cfa6897b86334.js" as="script"/><link rel="preload" href="/_next/static/chunks/framework-dad01274ebd59602c6c8.js" as="script"/><link rel="preload" href="/_next/static/chunks/597-3c7d52d341836747507e.js" as="script"/><link rel="preload" href="/_next/static/chunks/778-5b48f24b6857a59f6fc5.js" as="script"/><link rel="preload" href="/_next/static/chunks/main-9ca82ec4d4aca520c43d.js" as="script"/><link rel="preload" href="/_next/static/chunks/pages/_app-92d7429c96449ba1b796.js" as="script"/><link rel="preload" href="/_next/static/chunks/pages/index-7f686865b7b8ed96dcd7.js" as="script"/></head><body><div id="__next"><div class="Home_container__1EcsU"><img class="Home_logo__1YbrH" src="/logo.png" alt="Lovecraft" width="300"/></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{}},"page":"/","query":{},"buildId":"GZVKVOk5HcE6kTcLldNFV","nextExport":true,"autoExport":true,"isFallback":false}</script><script nomodule="" src="/_next/static/chunks/polyfills-8683bd742a84c1edd48c.js"></script><script src="/_next/static/chunks/webpack-25bac72cfa6897b86334.js" async=""></script><script src="/_next/static/chunks/framework-dad01274ebd59602c6c8.js" async=""></script><script src="/_next/static/chunks/597-3c7d52d341836747507e.js" async=""></script><script src="/_next/static/chunks/778-5b48f24b6857a59f6fc5.js" async=""></script><script src="/_next/static/chunks/main-9ca82ec4d4aca520c43d.js" async=""></script><script src="/_next/static/chunks/pages/_app-92d7429c96449ba1b796.js" async=""></script><script src="/_next/static/chunks/pages/index-7f686865b7b8ed96dcd7.js" async=""></script><script src="/_next/static/GZVKVOk5HcE6kTcLldNFV/_buildManifest.js" async=""></script><script src="/_next/static/GZVKVOk5HcE6kTcLldNFV/_ssgManifest.js" async=""></script></body></html>
