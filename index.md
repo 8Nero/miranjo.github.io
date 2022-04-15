@@ -3,13 +3,11 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 
-<title>Dangy Integrals</title>
+<title>Dandy Integrals</title>
 
 <style src="mystyle.css">
-body {
-	background-color: #D3CFD3;
-}
 </style>
+	
 <script language="JavaScript" src="source.js"></script>
 
 </head>
